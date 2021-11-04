@@ -6,4 +6,5 @@ Sharing infomation feels good!
 I like to teach pelple!
 Git is a good tool.
 I like Git so much!
+Change was done on GitHub.
 Change was done on Local.
